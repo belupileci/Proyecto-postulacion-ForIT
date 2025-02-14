@@ -6,7 +6,7 @@ Para poder ejecutar a la aplicacion debe tener disponible:
 1) Node.js
 2) Visual Studio Code
   
-  Para ejecutarla deebra seguir los siguientes pasos:
+  Para ejecutarla debra seguir los siguientes pasos:
   1) Entrar a visual studio Code
   2) Abrir la terminal 
   3) debera poner en la terminal: git clone <https://github.com/belupileci/Proyecto-postulacion-ForIT.git>
