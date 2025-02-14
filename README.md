@@ -5,11 +5,11 @@ Se utilizo React, Axios y CSS.
 Para poder acceder a la aplicacion debe tener disponible:
 1) Node.js
 2) Visual Studio Code
-3) 
+
 Clonara el repositorio de github:
    git clone <https://github.com/belupileci/Proyecto-postulacion-ForIT.git>
-  Para ejecutarla debera poner en la terminal:
-   npm start    y la app se abrira en http://localhost:3000
+  
+  Para ejecutarla debera poner en la terminal: npm start y la app se abrira en http://localhost:3000
 
 
 
