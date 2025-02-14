@@ -6,6 +6,7 @@ Para poder acceder a la aplicacion debe tener disponible:
 2) Visual Studio Code
 Clonara el repositorio de github:
    git clone <https://github.com/belupileci/Proyecto-postulacion-ForIT.git>
+   
    Para ejecutarla debera poner en la terminal:
    npm start 
    y la app se abrira en http://localhost:3000
