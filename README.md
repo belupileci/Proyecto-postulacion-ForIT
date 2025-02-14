@@ -12,7 +12,7 @@ Para poder ejecutar a la aplicacion debe tener disponible:
   3) debera poner en la terminal: git clone <https://github.com/belupileci/Proyecto-postulacion-ForIT.git>
   4) para acceder a la carpeta debera colocar en la terminal: cd PROYECTO POSTULACION FORIT
   5) Luego que tenga el proyecto a su acceso, debera colocar el siguiente comando: npm start
-  6) Ahora si, la app se abrira en http://localhost:3000
+  6) Ahora si, el proyecto sera visible en http://localhost:3000
 
 
 
